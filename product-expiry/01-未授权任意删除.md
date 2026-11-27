@@ -2,7 +2,7 @@
 
 ## Author
 
-- qwer1230011108
+- Thron3
 
 ## Vendor Homepage
 
