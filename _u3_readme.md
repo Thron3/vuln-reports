@@ -1,3 +1,3 @@
-# vuln-reports
+# Moved
 
-Security vulnerability reports for open-source PHP applications with local reproduction evidence. All testing on local instances (127.0.0.1) only.
+See README.md.
